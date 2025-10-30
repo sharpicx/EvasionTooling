@@ -22,5 +22,8 @@ PS> [abc.abcabc]::NetcatSendTCP("127.0.0.1", 12345, "hello from pwsh", 200, 1) |
 PS> [abc.abcabc]::PortScan("127.0.0.1", 1, 65535, 200, 1, "C:\scans\127.0.0.1_scan.txt")
 ```
 
+![Untitled](https://github.com/user-attachments/assets/c7786a8f-d352-4704-b780-31322277c6fa)
+
+
 ## References
 1. <https://github.com/shantanu561993/SharpChisel/tree/master/Go/chisel-64>
