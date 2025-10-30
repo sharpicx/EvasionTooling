@@ -1,3 +1,9 @@
+## Background Story
+
+Di sini agak sedih juga sih, karena dikasih akses ke PowerShell. Seharusnya semua akses ke command execution itu diblokir, even LOLBAS (listed atau non-listed).
+
+## PoC
+
 ```
 iv: 5030511e51bbf22fb651936cbeeed884
 key: 2814a9ddc9529f174206d5c030229e610cdac08da698003ab0a8f5fcad93a095
